@@ -8,8 +8,4 @@ function play(note){
 
     audio.loop = false;
 
-    // audio.onended = function(){
-    //     audio.play();
-    // }
-
 }
